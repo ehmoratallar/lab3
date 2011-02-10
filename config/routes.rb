@@ -1,4 +1,8 @@
 Lab3::Application.routes.draw do
+  get "lab3/index"
+
+  get "lab2/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
